@@ -1,0 +1,6 @@
+- Hubungan antar objek merupakan hal yang sangat mendasar di dalam pemrograman berorientasi objek.
+  Hubungan antar objek juga mendefinisikan bagaimana objek-objek tersebut akan berinteraksi atau berkolaborasi
+  satu sama lainnya. Dalam hubungan antar objek terdapat 3 kategori:
+  1. Association : memiliki hubungan “has-a” yang menyatakan bahwa sebuah kelas memiliki hubungan dengan kelas lainnya.
+  2. Dependency : hubungan ini memiliki arti bahwa sebuah kelas memiliki ketergantungan terhadap kelas lain.
+  3. Generalization : memiliki hubungan “is-a” dari kelas yang spesifik ke kelas yang lebih umum.
