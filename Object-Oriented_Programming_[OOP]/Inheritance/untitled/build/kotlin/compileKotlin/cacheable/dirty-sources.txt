@@ -1,0 +1,4 @@
+F:\UYP\MSIB DICODING\PemerogeramanSolid\Object-Oriented_Programming_[OOP]\Inheritance\untitled\src\main\kotlin\JenisJenisInheritance\a_SingleInheritance\Animal.kt
+F:\UYP\MSIB DICODING\PemerogeramanSolid\Object-Oriented_Programming_[OOP]\Inheritance\untitled\src\main\kotlin\JenisJenisInheritance\c_MultipleInheritance\Ovipar.kt
+F:\UYP\MSIB DICODING\PemerogeramanSolid\Object-Oriented_Programming_[OOP]\Inheritance\untitled\src\main\kotlin\JenisJenisInheritance\b_MultilevelInheritance\Animal.kt
+F:\UYP\MSIB DICODING\PemerogeramanSolid\Object-Oriented_Programming_[OOP]\Inheritance\untitled\src\main\kotlin\Pengenalan\Superclass.kt
