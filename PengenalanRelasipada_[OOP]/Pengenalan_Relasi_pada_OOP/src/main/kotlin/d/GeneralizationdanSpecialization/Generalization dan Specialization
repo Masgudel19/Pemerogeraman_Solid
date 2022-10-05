@@ -1,0 +1,6 @@
+* Generalization
+- Dalam hubungan generalisasi terjadi proses memisahkan karakteristik dari dua atau lebih class dan menggabungkannya jadi satu class yang lebih umum atau biasa kita sebut SuperClass.
+- Karakteristik ini bisa seperti atribut, hubungan asosiasi, atau fungsi pada beberapa class
+* Specialization
+- hubungan spesialisasi berarti membuat sebuah SubClass dari class yang sudah ada.
+-
