@@ -1,0 +1,15 @@
+- Asosiasi didefinisikan sebagai hubungan yang terstruktur, yang secara konsep memiliki arti bahwa dua komponen saling terhubung satu sama lain.
+- hubungan asosiasi digambarkan dengan garis tidak putus-putus dan tidak memiliki anak panah pada kedua ujungnya.
+- setiap objek memiliki siklus hidupnya sendiri dan tidak memiliki “ownership” antara kedua objek tersebut.
+- Kardinalitas
+  - Kardinalitas adalah hubungan maksimum yang terjadi dari himpunan entitas yang satu ke himpunan entitas yang lain, demikian sebaliknya.
+  - Hubungan asosiasi sendiri memiliki hubungan one-to-one, one-to-many, many-to-one, dan many-to-many atau yang biasa disebut sebagai kardinalitas.
+    * One-to-one relationship
+      Hubungan satu ke satu terjadi ketika satu objek A memiliki referensi dari satu objek B. Sebaliknya, satu objek B
+      memiliki referensi dengan satu dari objek A.
+    * One-to-many relationship
+      Hubungan satu ke banyak ini diartikan dengan hubungan antara dua objek A dan B di mana objek A terhubung dengan
+      lebih dari satu objek B, tetapi anggota dari objek B hanya terhubung dengan satu anggota A.
+    * Many-to-many relationship
+      Hubungan banyak ke banyak merupakan hubungan antara dua buah objek A dan B, di mana setiap anggota dari objek A
+      maupun B memiliki hubungan lebih dari satu objek A dan B.

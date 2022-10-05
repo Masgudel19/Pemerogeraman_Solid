@@ -1,0 +1,2 @@
+- Bentuk hubungan pertama dari asosiasi adalah agregasi yang digambarkan dengan dengan garis yang tidak putus-putus dengan ujung simbol diamond putih yang mengarah pada class yang memiliki.
+- Meskipun sama-sama berupa hubungan yang “memiliki,”  perbedaan dengan bentuk hubungan komposisi adalah bentuk hubungan ini tidak terikat, yang berarti setiap class dapat berdiri sendiri.
