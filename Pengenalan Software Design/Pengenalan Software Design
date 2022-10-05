@@ -1,0 +1,9 @@
+- Dalam mengembangkan perangkat lunak, dibutuhkan architecture dan design yang baik. Architecture menentukan
+  struktur dari perangkat lunak. Sedangkan design, lebih mengarah pada hubungan antar komponen yang berada
+  di dalamnya.
+- Software Design Principle merupakan pedoman yang dapat digunakan untuk menghindari design yang buruk saat
+  mengembangkan sebuah perangkat lunak.
+- Menurut Robert C. Martin, terdapat 3 design yang buruk, yaitu :
+  1. Rigidity, adalah kondisi suatu sistem yang sulit diubah, bahkan untuk perubahan yang paling sederhana.
+  2. Fragility, adalah kecenderungan perangkat lunak yang salah di beberapa bagian setiap kali melakukan perubahan.
+  3. Immobility, adalah sebuah ketidakmampuan untuk menggunakan kembali perangkat lunak dari proyek lain atau bagian-bagian dari proyek yang sama.
