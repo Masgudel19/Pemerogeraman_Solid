@@ -1,0 +1,7 @@
+- Hubungan realisasi atau implementasi adalah hubungan abstraksi khusus antara dua kelas, satu mewakili interface yang menjadi spesifikasinya (ProductService)
+  dan yang lainnya mewakili kelas implementasi yang menjadi realisasinya (ProductServiceImpl).
+- Realisasi dapat digunakan dalam beberapa hal seperti untuk menyempurnakan sebuah kelas, optimasi, transformasi,
+  template, model sintesis, komposisi kerangka kerja, dll.
+- hubungan realisasi ditandai dengan garis putus-putus yang memiliki simbol segitiga putih pada ujungnya yang mengarah pada kelas yang direalisasikan (supplier).
+- Interface realization adalah hubungan realisasi khusus antara classifier dan interface.
+- roductServiceImpl merupakan kelas classifier yang mengimplementasikan kontrak dari kelas interface-nya yaitu kelas ProductService.
