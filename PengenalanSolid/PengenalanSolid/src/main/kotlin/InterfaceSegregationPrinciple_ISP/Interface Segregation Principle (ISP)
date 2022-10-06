@@ -1,0 +1,6 @@
+- Prinsip ini sendiri bertujuan untuk mengurangi jumlah ketergantungan sebuah class terhadap interface class yang tidak dibutuhkan.
+- class memiliki ketergantungan terhadap class lainnya.
+- Jumlah ketergantungan dari fungsi pada sebuah interface class yang dapat diakses oleh class tersebut harus dioptimalkan atau dikurangi.
+- ISP adalah tentang pemisahan tanggung jawab. Robot yang nggak punya alat untuk menyelesaikan tugas, jangan diberi tugas yang tidak semestinya.
+  Misalnya robot yang tidak punya sayap, seharusnya tidak diberikan tugas untuk terbang. Namun sesuaikan tugas dengan kebutuhan masing-masing.
+-

@@ -1,0 +1,20 @@
+- Liskov’s substitution adalah aturan yang berlaku untuk hirarki pewarisan.
+- Hal ini mengharuskan kita untuk mendesain kelas-kelas yang kita miliki sehingga
+  ketergantungan antar klien dapat disubstitusikan tanpa klien mengetahui tentang perubahan yang ada.
+- Untuk mencapainya, terdapat beberapa aturan yang harus dipatuhi :
+* Contravariant dan Covariant
+  - Contravariant adalah kondisi di mana parameter dari sebuah fungsi yang berada pada SubClass harus memiliki
+    tipe dan jumlah yang sama dengan fungsi yang berada pada SuperClass-nya.
+  - Covariant adalah kondisi pengembalian nilai dari fungsi yang berada pada SubClass dan SuperClass.
+* Preconditions dan Postconditions
+  - Ini merupakan tindakan yang harus ada sebelum atau sesudah sebuah proses dijalankan.
+  - Ini disebut sebagai precondition. Sedangkan postcondition,
+    - contohnya saat proses baca tulis di dalam database telah selesai,
+    - kita harus memastikan database tersebut sudah tertutup.
+* Invariant
+  - Invariant sendiri adalah penjelasan dari kondisi suatu proses yang benar sebelum proses tersebut dimulai dan tetap benar setelahnya.
+* Constraint
+  - Constraint di sini adalah pembatasan yang ditentukan oleh SuperClass terhadap perubahan keadaan sebuah obyek.
+  - Sebagai contoh misal SuperClass memiliki obyek yang memiliki nilai tetap, maka SubClass tidak diijinkan untuk mengubah keadaan dari nilai obyek tersebut
+- Liskov’s Substitution principle merupakan prinsip yang dapat meningkatkan design dari sistem yang kita kembangkan. Sehingga ketergantungan antar klien dapat
+  disubstitusikan tanpa klien tahu perubahan yang ada.
