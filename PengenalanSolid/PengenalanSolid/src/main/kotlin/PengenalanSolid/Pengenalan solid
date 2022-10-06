@@ -1,0 +1,12 @@
+- SOLID merupakan kumpulan dari beberapa principle yang diwujudkan oleh engineer-engineer yang ahli dibidangnya
+- OOP dan SOLID merupakan 2 (dua) hal yang berbeda.
+- OOP adalah sebuah paradigma untuk menuliskan program yang sudah diadaptasi oleh beberapa bahasa pemrograman
+- SOLID merupakan sebuah principle yang sudah disebutkan sebelumnya
+- paradigma sendiri bukanlah sebuah principle yang mengajarkan tentang bagaimana sebuah tanggung jawab suatu entitas yang berada di dalam sebuah perangkat lunak.
+- Prinsip SOLID bukanlah suatu hukum atau aturan tertentu yang wajib kita patuhi, melainkan sebuah prinsip yang dimaksudkan untuk membantu kita dalam menuliskan kode yang rapi.
+- tujuan dari prinsip SOLID dalam pembuatan struktur mid-level perangkat lunak:
+* Toleran terhadap perubahan
+* Mudah dipahami
+* Komponen dasar dapat digunakan kembali dalam bentuk software system lainnya
+- Istilah mid-level yang merujuk pada prinsip SOLID ini diterapkan oleh engineer yang bekerja pada level module
+- Prinsip ini diterapkan tepat di atas level kode. Manfaatnya, ia dapat membantu menentukan jenis struktur perangkat lunak yang digunakan dalam modul dan komponen.
