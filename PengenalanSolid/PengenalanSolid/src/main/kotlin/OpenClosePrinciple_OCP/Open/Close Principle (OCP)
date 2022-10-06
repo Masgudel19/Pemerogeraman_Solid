@@ -1,0 +1,6 @@
+- Terbuka untuk ditambahkan adalah keadaan ketika sebuah sistem dapat ditambahkan dengan spesifikasi baru yang dibutuhkan.
+- tertutup untuk dimodifikasi adalah agar ketika ingin menambahkan spesifikasi baru, kita tidak perlu mengubah atau memodifikasi sistem yang telah ada.
+- penggunaan aturan open/close diterapkan dengan memanfaatkan interface dan abstraksi kelas daripada menggunakan sebuah kelas konkret.
+- Penggunaan interface dan abstraksi kelas bertujuan agar dapat mudah diperbaiki setelah pengembangan tanpa harus mengganggu kelas yang
+  mewarisi dan ketika ingin membuat fungsionalitas baru, cukup dengan membuat kelas baru dan mewarisi interface atau abstraksi tersebut.
+-
