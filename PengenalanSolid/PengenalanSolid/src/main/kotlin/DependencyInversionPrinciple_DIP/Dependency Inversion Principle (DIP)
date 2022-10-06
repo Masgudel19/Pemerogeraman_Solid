@@ -1,0 +1,11 @@
+- Pada prinsip Dependency Inversion terdapat dua pernyataan atau aturan :
+ * yang pertama adalah high-level module tidak diperbolehkan untuk bergantung pada low-level module.
+ * Keduanya harus bergantung pada abstraction. Pernyataan yang kedua, abstraksi tidak diperbolehkan untuk bergantung
+   pada detail. Detail harus bergantung pada abstraksi.
+- Prinsip Dependency Inversion hampir sama dengan konsep layering dalam aplikasi, di mana low-level modules bertanggung jawab
+  dengan fungsi yang sangat detail dan high-level modules menggunakan low-level classes untuk mencapai tugas yang lebih besar.
+- High-level modules adalah kelas-kelas yang berurusan dengan kumpulan-kumpulan fungsionalitas.
+- Low-level modules bertanggung jawab pada operasi yang lebih detail.
+- Pada prinsip DIP, robot tidak boleh tergantung dengan satu alat saja, namun bisa diubah-ubah. Misalnya robot tidak boleh hanya
+  tergantung pada spatula saja untuk memasak, tapi bisa juga menggunakan pisau, penjepit atau centong.
+
